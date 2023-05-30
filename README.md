@@ -13,7 +13,7 @@ $ cd linetracer
 
 $ make
 
-$ ./linetracer
+$ sudo ./linetracer
 
 # What to do on Windows
 For video streaming from robot camera, Open the command prompt and download gst1.bat in a working directory

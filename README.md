@@ -1,7 +1,8 @@
 # linetracer
-Linetracer using image processing
 
-Prerequisites : Opencv 4.6 and Dynamixel C++ SDK
+Linetracer using Jetson nano and Dyanmixel
+
+Prerequisites : Opencv 4.6, Gstreamer, and Dynamixel C++ SDK
 
 # What to do on Jetson nano
 

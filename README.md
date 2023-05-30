@@ -1,12 +1,13 @@
 # linetracer
-Linetracer
+Linetracer using image processing
+
 Prerequisites : Opencv 4.6 and Dynamixel C++ SDK
 
 # What to do on Jetson nano
 
 How to download, build, and run on Jetson nano
 
-$ git clone 
+$ git clone https://github.com/2sungryul/linetracer.git
 
 $ cd linetracer
 
